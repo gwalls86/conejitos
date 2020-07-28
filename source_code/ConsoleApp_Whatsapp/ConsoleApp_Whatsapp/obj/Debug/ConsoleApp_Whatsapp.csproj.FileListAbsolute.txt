@@ -1,0 +1,7 @@
+C:\Users\Jorge\source\repos\ConsoleApp_Whatsapp\ConsoleApp_Whatsapp\bin\Debug\ConsoleApp_Whatsapp.exe.config
+C:\Users\Jorge\source\repos\ConsoleApp_Whatsapp\ConsoleApp_Whatsapp\bin\Debug\ConsoleApp_Whatsapp.exe
+C:\Users\Jorge\source\repos\ConsoleApp_Whatsapp\ConsoleApp_Whatsapp\bin\Debug\ConsoleApp_Whatsapp.pdb
+C:\Users\Jorge\source\repos\ConsoleApp_Whatsapp\ConsoleApp_Whatsapp\obj\Debug\ConsoleApp_Whatsapp.csprojAssemblyReference.cache
+C:\Users\Jorge\source\repos\ConsoleApp_Whatsapp\ConsoleApp_Whatsapp\obj\Debug\ConsoleApp_Whatsapp.csproj.CoreCompileInputs.cache
+C:\Users\Jorge\source\repos\ConsoleApp_Whatsapp\ConsoleApp_Whatsapp\obj\Debug\ConsoleApp_Whatsapp.exe
+C:\Users\Jorge\source\repos\ConsoleApp_Whatsapp\ConsoleApp_Whatsapp\obj\Debug\ConsoleApp_Whatsapp.pdb
