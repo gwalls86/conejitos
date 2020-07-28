@@ -1,0 +1,11 @@
+Las instrucciones que se encuentran a continuación convierten un chat exportado de whatsapp en una página web.
+
+1. Exportar el chat de whatsapp en formato txt.
+2. El archivo en txt debe ser guardado en una ubicación conocida.
+3. Abrir el proyecto ubicado en la carpeta "source_code" en Visual Studio.
+4. Ubicar en el proyecto la línea de lectura de archivo y escribir la ubicación del archivo de origen (paso 2).
+5. Ubicar en el proyecto la línea de escritura de archivo y escribir la ubicación del archivo de salida.
+6. Ejecutar la aplicación.
+7. Ir a la ubicación del archivo de salida. Este archivo de salida en un archivo html.
+8. Abrir una plantilla de html y ubicar el contenido del archivo de salida en la sección "body".
+9. Opcional: La página web puede subir a un repositorio como Github.
